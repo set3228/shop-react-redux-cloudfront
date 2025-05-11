@@ -5,6 +5,10 @@
   "scripts": {
     "start": "vite",
     "build": "tsc && vite build",
+    "cdk:synth": "cd infrastructure && cdk synth",
+    "cdk:bootstrap": "node scripts/bootstrap.js",
+    "cdk:deploy": "cd infrastructure && cdk deploy",
+    "cdk:destroy": "cd infrastructure && cdk destroy",
     "preview": "npm run build && vite preview",
     "test": "vitest",
     "test:ui": "vitest --ui",
