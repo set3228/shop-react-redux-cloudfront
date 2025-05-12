@@ -1,3 +1,7 @@
+# Note
+
+Tasks related to Stage 4 are completed in the BE repository https://github.com/set3228/shop-react-backend
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
