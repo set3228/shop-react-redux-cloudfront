@@ -21,6 +21,10 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 - [CloudFront URL](https://d2sannh3qnvxga.cloudfront.net/)
 - [S3 URL](https://deployshopstack-deploymentfrontendbucket67ceb713-x5yrgmjjnujh.s3.eu-north-1.amazonaws.com/index.html)
 
+## Backend
+
+- [API Gateway URL](https://uz5grq0ue2.execute-api.eu-north-1.amazonaws.com/prod/)
+
 ## Available Scripts
 
 ### `start`
