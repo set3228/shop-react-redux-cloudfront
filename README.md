@@ -27,7 +27,8 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 
 ## Backend
 
-- [API Gateway URL](https://uz5grq0ue2.execute-api.eu-north-1.amazonaws.com/prod/)
+- [Product Service API Gateway URL](https://uz5grq0ue2.execute-api.eu-north-1.amazonaws.com/prod/)
+- [Import Service API Gateway URL](https://5aduhr02b8.execute-api.eu-north-1.amazonaws.com/prod/)
 
 ## Available Scripts
 
